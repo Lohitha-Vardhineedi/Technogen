@@ -41,9 +41,9 @@ const Vision = () => {
             borderBottomRightRadius: "35px",
           }}>
 
-          <div className="w-16 h-16 bg-pink-600 rounded-full flex items-center justify-center shadow-md">
-            <TbArrowsUp size={40} color="#eee" />
-          </div>
+            <div className="w-16 h-16 bg-pink-600 rounded-full flex items-center justify-center shadow-md">
+              <TbArrowsUp size={40} color="#eee" />
+            </div>
           </div>
 
           <h2 className="text-3xl font-bold tracking-wide mb-3 tracking-wider border-b-2 border-b-gray-500 pb-2 w-fit">
